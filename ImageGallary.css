@@ -1,0 +1,16 @@
+ .header{color: rgb(10, 10, 10);margin-left: 555px;margin-top: 50px;}
+ .ImageGal{margin-top: 50px;flex-wrap: wrap;align-content:center;margin-left: 150px;} 
+ .row2 img,.row1 img{width: 340px;height: 200px;object-fit: cover;transition: 0.5s;opacity: 0.85;}
+
+ img:hover{cursor: pointer;width: 350px;height: 220px;opacity: 1;}
+
+ .navbar{list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;}
+
+ .navbar li{float: left;}
+
+ .navbar li a{display: block;color: beige;text-align: center;padding: 14px 16px;text-decoration: none;}
+
+ .navbar li a:hover{background-color: #111;}
+
+ .WebPage{background: url("WEB DEV - Images/robert-katzki-fyHkeWGOpHM-unsplash.jpg") no-repeat;background-size: cover;}
+ 
